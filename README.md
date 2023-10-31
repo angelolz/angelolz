@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Angel. I like making Discord bots and funny lyric videos from time to time :)
+
+I promise I'll make a better README later!
+
+# Check me out in other places!
+- [Twitter](https://twitter.com/angelolz1/)
+- [Bluesky](https://bsky.app/profile/angelolz.one)
+- [YouTube](https://youtube.com/angelolz1)
+- [Ko-Fi](https://ko-fi.com/angelolz)
+- [Personal Website](https://angelolz.one/)
 
 <!--
 **angelolz/angelolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

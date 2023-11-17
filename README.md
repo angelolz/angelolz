@@ -1,26 +1,35 @@
-### Hi there 👋
-I'm Angel. I like making Discord bots and funny lyric videos from time to time :)
+<p align="center"><img src="https://github.com/angelolz/angelolz/assets/25342763/502e8235-ef96-4f47-bc29-6be0dd2ae4d1" alt="angelolz-icon"/></p>
 
-I promise I'll make a better README later!
+<h1 align="center">Hey there! Angel's the name. </h1>
 
-# Check me out in other places!
-- [Twitter](https://twitter.com/angelolz1/)
-- [Bluesky](https://bsky.app/profile/angelolz.one)
-- [YouTube](https://youtube.com/angelolz1)
-- [Ko-Fi](https://ko-fi.com/angelolz)
-- [Personal Website](https://angelolz.one/)
+<h3 align="center">I'm a 23 y/o fullstack software engineer from Saipan. I go by 'Angelolz' on the internet.</h3>
+<p align="center">I love to play rhythm games, edit videos, as well as make discord bots.
+<div align="center">
+  <a align="center" href="https://twitter.com/angelolz1" target="blank"><img src="https://img.shields.io/badge/twitter-angelolz1-1a8cd8?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
+  <a align="center" href="https://bsky.app/profile/angelolz.one" target="blank"><img src="https://custom-icon-badges.herokuapp.com/badge/bluesky-angelolz.one-0085ff?style=for-the-badge&logo=bsky-icon" alt="Bluesky"/></a>
+  <a align="center" href="https://youtube.com/angelolz1" target="blank"><img src="https://img.shields.io/badge/youtube-Angelolz-ff0000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
+  <a align="center" href="https://ko-fi.com/angelolz" target="blank"><img src="https://img.shields.io/badge/donate-ko--fi-ff5f5f?style=for-the-badge&logo=kofi" alt="Ko-Fi"/></a>
+  <a align="center" href="http://angelolz.one/" target="blank"><img src="https://custom-icon-badges.herokuapp.com/badge/website-angelolz.one-31748f?style=for-the-badge&logo=angelolz-icon&v=2" alt="Website"/></a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=angelolz&style=for-the-badge" alt="github profile views"/>
+</div>
 
-<!--
-**angelolz/angelolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Skills</h2>
+<h3 align="center">Programming Languages</h3>
+<p align="center"><img align="middle" src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,docker,mysql" alt="programming-languages"/></p>
 
-Here are some ideas to get you started:
+<h3 align="center">Web Technologies</h3>
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=nodejs,bootstrap,jquery,react,postman,pug" alt="programming-languages"/></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Text Editors/IDEs</h3>
+<p align="center"><a align=center><img align="center" src="https://skillicons.dev/icons?i=idea,vscode,atom" alt="programming-languages"/></a></p>
+
+# Check out my projects!
+- Discord Bots
+  - [Animal Crossing Bot](https://top.gg/bot/701038771776520222) - Allows you to view different info from the Animal Crossing games, keep track and predict turnip prices, and create your own island profile!
+  - [Wordie](https://top.gg/bot/929381918728945725) - Play the classic Wordle game on Discord by yourself or battle with up to two other users!
+- Apps / Extensions
+  - [CHScrobbler](https://github.com/angelolz/CHScrobbler) - Scrobble the songs you play on Clone Hero, ScoreSpy and YARG to last.fm!
+  - [CookieClickerRPC](https://github.com/angelolz/CookieClickerRPC) - Show off your Cookie Clicker stats on your Discord Rich Presence status!
+ 

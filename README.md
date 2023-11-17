@@ -28,7 +28,7 @@
 # Check out my projects!
 - Discord Bots
   - [Animal Crossing Bot](https://top.gg/bot/701038771776520222) - Allows you to view different info from the Animal Crossing games, keep track and predict turnip prices, and create your own island profile!
-  - [Wordie](https://top.gg/bot/929381918728945725) - Play the classic Wordle game on Discord by yourself or battle with up to two other users!
+  - [Wordie](https://top.gg/bot/929381918728945725) with [@AzureToast](https://github.com/azuretoast) - Play the classic Wordle game on Discord by yourself or battle with up to two other users!
 - Apps / Extensions
   - [CHScrobbler](https://github.com/angelolz/CHScrobbler) - Scrobble the songs you play on Clone Hero, ScoreSpy and YARG to last.fm!
   - [CookieClickerRPC](https://github.com/angelolz/CookieClickerRPC) - Show off your Cookie Clicker stats on your Discord Rich Presence status!

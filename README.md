@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/angelolz/angelolz/assets/25342763/502e8235-ef96-4f47-bc29-6be0dd2ae4d1" alt="angelolz-icon"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/angelolz/angelolz/main/img/icon.png" alt="angelolz-icon"/></p>
 
 <h1 align="center">Hey there! Angel's the name. </h1>
 

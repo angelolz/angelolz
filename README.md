@@ -32,4 +32,10 @@
 - Apps / Extensions
   - [CHScrobbler](https://github.com/angelolz/CHScrobbler) - Scrobble the songs you play on Clone Hero, ScoreSpy and YARG to last.fm!
   - [CookieClickerRPC](https://github.com/angelolz/CookieClickerRPC) - Show off your Cookie Clicker stats on your Discord Rich Presence status!
- 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angelolz&theme=vue-dark&show_icons=true" />
+</a>
+<a href="https://github.com/angelolz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelolz&theme=vue-dark&layout=compact&langs_count=8&card_width=320" />
+</a>

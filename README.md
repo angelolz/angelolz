@@ -33,6 +33,10 @@
   - [CHScrobbler](https://github.com/angelolz/CHScrobbler) - Scrobble the songs you play on Clone Hero, ScoreSpy and YARG to last.fm!
   - [CookieClickerRPC](https://github.com/angelolz/CookieClickerRPC) - Show off your Cookie Clicker stats on your Discord Rich Presence status!
   - [obs-replay-tool](https://github.com/angelolz/obs-replay-tool) **[🛠️ WIP]** - Shows an overlay similar to GeForce Experience's Instant Replay for OBS, as well as automating your game capture settings based on the active window.
+- Presences for [PreMiD](https://github.com/PreMiD/PreMiD)
+  - [Nebula (nebula.tv)](https://premid.app/store/presences/Nebula)
+  - [SDVX Index (sdvxindex.com)](https://premid.app/store/presences/SDVX%20Index)
+  - [Dropout (dropout.tv)](https://premid.app/store/presences/Dropout)
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angelolz&theme=vue-dark&show_icons=true" />

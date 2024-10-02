@@ -27,11 +27,12 @@
 
 # Check out my projects!
 - Discord Bots
-  - [Animal Crossing Bot](https://top.gg/bot/701038771776520222) - Allows you to view different info from the Animal Crossing games, keep track and predict turnip prices, and create your own island profile!
+  - [Animal Crossing Bot](https://top.gg/bot/701038771776520222) **[✍️ currently rewriting!]** - Allows you to view different info from the Animal Crossing games, keep track and predict turnip prices, and create your own island profile!
   - [Wordie](https://top.gg/bot/929381918728945725) with [@AzureToast](https://github.com/azuretoast) - Play the classic Wordle game on Discord by yourself or battle with up to two other users!
 - Apps / Extensions
   - [CHScrobbler](https://github.com/angelolz/CHScrobbler) - Scrobble the songs you play on Clone Hero, ScoreSpy and YARG to last.fm!
   - [CookieClickerRPC](https://github.com/angelolz/CookieClickerRPC) - Show off your Cookie Clicker stats on your Discord Rich Presence status!
+  - [obs-replay-tool](https://github.com/angelolz/obs-replay-tool) **[🛠️ WIP]** - Shows an overlay similar to GeForce Experience's Instant Replay for OBS, as well as automating your game capture settings based on the active window.
 
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angelolz&theme=vue-dark&show_icons=true" />

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there! Angel's the name. </h1>
 
-<h3 align="center">I'm a 23 y/o fullstack software engineer from Saipan. I go by 'Angelolz' on the internet.</h3>
+<h3 align="center">I'm a 24 y/o fullstack software engineer from Saipan. I go by 'Angelolz' on the internet.</h3>
 <p align="center">I love to play rhythm games, edit videos, as well as make discord bots.
 <div align="center">
   <a align="center" href="https://twitter.com/angelolz1" target="blank"><img src="https://img.shields.io/badge/twitter-angelolz1-1a8cd8?style=for-the-badge&logo=twitter" alt="Twitter"/></a>

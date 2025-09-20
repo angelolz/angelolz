@@ -26,6 +26,9 @@
 <p align="center"><a align=center><img align="center" src="https://skillicons.dev/icons?i=idea,vscode,atom" alt="programming-languages"/></a></p>
 
 # Check out my projects!
+- Websites
+  - [e621dle](https://e621dle.starfall.team/) (🔞)
+  - [Team Starfall Homepage](https://starfall.team)
 - Discord Bots
   - [Animal Crossing Bot](https://top.gg/bot/701038771776520222) **[✍️ currently rewriting!]** - Allows you to view different info from the Animal Crossing games, keep track and predict turnip prices, and create your own island profile!
   - [Wordie](https://top.gg/bot/929381918728945725) with [@AzureToast](https://github.com/azuretoast) - Play the classic Wordle game on Discord by yourself or battle with up to two other users!

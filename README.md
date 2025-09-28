@@ -20,7 +20,7 @@
 <p align="center"><img align="middle" src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,docker,mysql" alt="programming-languages"/></p>
 
 <h3 align="center">Web Technologies</h3>
-<p align="center"><img align="center" src="https://skillicons.dev/icons?i=nodejs,bootstrap,jquery,react,postman,pug" alt="programming-languages"/></p>
+<p align="center"><img align="center" src="https://skillicons.dev/icons?i=nodejs,bootstrap,jquery,react,nextjs,vercel,postman,pug" alt="programming-languages"/></p>
 
 <h3 align="center">Text Editors/IDEs</h3>
 <p align="center"><a align=center><img align="center" src="https://skillicons.dev/icons?i=idea,vscode,atom" alt="programming-languages"/></a></p>

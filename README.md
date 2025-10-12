@@ -32,10 +32,13 @@
 - Discord Bots
   - [Animal Crossing Bot](https://top.gg/bot/701038771776520222) **[✍️ currently rewriting!]** - Allows you to view different info from the Animal Crossing games, keep track and predict turnip prices, and create your own island profile!
   - [Wordie](https://top.gg/bot/929381918728945725) with [@AzureToast](https://github.com/azuretoast) - Play the classic Wordle game on Discord by yourself or battle with up to two other users!
+  - [Jellybox](https://github.com/angelolz/Jellybox) - A Discord music bot for your Jellyfin server. 
 - Apps / Extensions
   - [CHScrobbler](https://github.com/angelolz/CHScrobbler) - Scrobble the songs you play on Clone Hero, ScoreSpy and YARG to last.fm!
   - [CookieClickerRPC](https://github.com/angelolz/CookieClickerRPC) - Show off your Cookie Clicker stats on your Discord Rich Presence status!
   - [obs-replay-tool](https://github.com/angelolz/obs-replay-tool) **[🛠️ WIP]** - Shows an overlay similar to GeForce Experience's Instant Replay for OBS, as well as automating your game capture settings based on the active window.
+  - [MicScrobbler](https://github.com/angelolz/MicScrobbler) **[🛠️ WIP]** - Scrobble any music playing from your microphone/line-in audio.
+  - [z407-controller](https://github.com/angelolz/z407-controllerA) - Control the Logitech Z407 speakers through a simple webpage.
 - Presences for [PreMiD](https://github.com/PreMiD/PreMiD)
   - [Nebula (nebula.tv)](https://premid.app/store/presences/Nebula)
   - [SDVX Index (sdvxindex.com)](https://premid.app/store/presences/SDVX%20Index)

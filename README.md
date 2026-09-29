@@ -46,10 +46,10 @@
   - [Dropout (dropout.tv)](https://premid.app/store/presences/Dropout)
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angelolz&theme=vue-dark&show_icons=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelolz&theme=vue-dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=angelolz&theme=vue-dark&show_icons=true" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=angelolz&theme=vue-dark&layout=compact&langs_count=8&card_width=320" />
 </div>
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=angelolz&theme=vue-dark&langs_count=10" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=angelolz&theme=vue-dark&langs_count=10" />
 </div>
